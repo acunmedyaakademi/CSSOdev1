@@ -1,0 +1,57 @@
+body {
+    font-family: 'Gabarito', cursive;
+    background-color: black;
+    padding: 20px;
+}
+
+.hero {
+    color: black;
+    padding: 50px 50px;
+    width: 372px;
+    font-size: x-large;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    margin-left: 25px;
+}
+
+.hero h3 {
+    color: gray;
+    width: 400px;
+    height: 10px;
+    font-size: 23px;
+    line-height: 50px;
+}
+
+.hero h1 {
+    width: 650px;
+    font-size: 50px;
+}
+
+
+.btn {
+    text-decoration: none;
+    color: white;
+    padding: 15px 45px;
+    background-color: #0D6EFD;
+    border-radius: 50px;
+    font-size: 30px;
+}
+
+.container {
+    display: flex;
+    background-color: #E6F0FF;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: space-between;
+    width: 1000px;
+    height: auto;
+}
+.cat img {
+    max-width: 320px;
+    max-height: 500px;
+}
+
+.cat {
+    width: 400px;
+    margin-right: -40px;
+}
