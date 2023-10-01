@@ -1,0 +1,46 @@
+.banner{
+    display: flex;
+    background-color: #e6f0ff;
+    border-radius: 10px;
+    justify-content: center;
+
+}
+
+
+.text{
+    
+    align-items: center;
+    justify-content: center;
+    /* top right bottom left */  
+    margin: 40px 50px 10px 40px;
+    
+    
+}
+
+.text h1,h4 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-bottom:10px;
+    
+    
+}
+.text h1{
+    font-size:2.5em;
+
+}
+
+
+.btn{
+    background-color: #0d6efd;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 30px;
+    border: none;
+    margin-top: 20px;
+}
+
+.image{
+
+    margin: 30px;
+
+}

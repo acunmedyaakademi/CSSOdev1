@@ -1,0 +1,48 @@
+.section{
+    display: flex;
+    background-color: #212121;
+    color: white;
+    height: 400px;
+    width: 1200px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    
+}
+.text{
+    margin-left: 60px;
+    margin-top: 100px;
+}
+
+.catimg{
+   width: 30px;
+   height: 30px;
+   border-radius: 20px;
+}
+.btn{
+    background-color:#0d6efd;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-weight: bold;
+    
+
+}
+.text button,h1,p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.image{
+    margin-left: 100px;
+
+}
+
+.cat-text{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+}
+
+

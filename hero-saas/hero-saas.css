@@ -1,0 +1,58 @@
+body{
+    background-color: #05285B;
+}
+
+.heroSaas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+
+}
+.text{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    
+
+}
+
+.text h1 {
+    font-size: 50px;
+   
+}
+
+.paragraph{
+    margin-top: -25px;
+    line-height: 25px;
+}
+
+.resim img{
+    width: 450px;
+}
+
+.btn{
+    background-color: #DC3545;
+    color: white;
+    border: 0px;
+    padding: 15px 60px;
+    border-radius: 3px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.icon{
+    margin-top: 10px;
+    display: flex;
+    font-size: 10px;
+}
+
+.icon img{
+    width: 70%;
+    
+}
+
+
+
+
+
+

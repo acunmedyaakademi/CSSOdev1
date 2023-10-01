@@ -1,0 +1,39 @@
+body{
+    background-image:url('assets/img/hero-bg.jpg'); /* Arka plan resminin URL'sini buraya ekleyin */
+    background-repeat: no-repeat; /* Arka plan resminin tekrar etmemesi için */
+    background-size: cover; /* Arka plan resmini kaplamak için */
+    color: white;
+   
+}
+
+.he{
+   display: block;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   margin-top: 370px;
+}
+.title h1{
+    font-size: 60px;
+    line-height: 5px;
+}
+
+.text p{
+    font-size: 25px;
+}
+
+
+ .btn{
+    background-color: #094BAC;
+    color: white;
+    border: 0px;
+    border-radius: 25px;
+    padding: 15px 40px;
+    font-weight: bold;
+
+}
+
+.text{
+    font-family:Arial, Helvetica, sans-serif
+}
+
